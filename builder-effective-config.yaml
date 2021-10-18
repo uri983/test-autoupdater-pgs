@@ -1,0 +1,27 @@
+directories:
+  output: dist_electron
+  buildResources: build
+  app: dist_electron/bundled
+files:
+  - filter:
+      - '**'
+extends: null
+productName: ParGolf Solutions
+win:
+  icon: ./icon.png
+  target: nsis
+appId: com.pargolfsolutions.pos
+publish:
+  provider: github
+  repo: test-autoupdater-pgs
+  owner: uri983
+  token: <stripped sensitive data>
+  host: github.com
+  region: ''
+  path: ''
+nsis:
+  perMachine: false
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: true
+electronVersion: 12.0.0
