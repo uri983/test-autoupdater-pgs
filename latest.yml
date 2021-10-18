@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: ParGolf-Solutions-Setup-0.1.0.exe
-    sha512: IJ400sWgJnQqXnlnKaJ//yH09ZzDI8bI/nT5T9L2GwiIqj7D05C0le1YONedrovpUsWr8egTWznO1FEDccTQCQ==
-    size: 64630408
-path: ParGolf-Solutions-Setup-0.1.0.exe
-sha512: IJ400sWgJnQqXnlnKaJ//yH09ZzDI8bI/nT5T9L2GwiIqj7D05C0le1YONedrovpUsWr8egTWznO1FEDccTQCQ==
-releaseDate: '2021-10-18T16:14:35.001Z'
+  - url: ParGolf-Solutions-Setup-0.1.1.exe
+    sha512: rPCr0nXxHaysQV6oD/00OF6WKvUcu8slDZwUVDNFwNHrjtvxRl//FxqlcJcBZD0T7bBgNmWJR3PEfA+zLmdriQ==
+    size: 64629866
+path: ParGolf-Solutions-Setup-0.1.1.exe
+sha512: rPCr0nXxHaysQV6oD/00OF6WKvUcu8slDZwUVDNFwNHrjtvxRl//FxqlcJcBZD0T7bBgNmWJR3PEfA+zLmdriQ==
+releaseDate: '2021-10-18T16:35:02.655Z'
